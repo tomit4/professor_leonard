@@ -13,7 +13,7 @@ the official youtube link.
 
 **LEFTOFF:**
 
-Video 10: Intermediate Algebra Lecture 7.2: How to Multiply and Divide Rational
+Video: Intermediate Algebra Lecture 7.4: Adding and Subtracting Rational
 Expressions
 
 General Timestamp: 0:00
