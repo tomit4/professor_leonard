@@ -13,7 +13,7 @@ the official youtube link.
 
 **LEFTOFF:**
 
-Video: Intermediate Algebra Lecture 7.5: Solving Rational Equations (Equations
-with Rational Expressions)
+Video: Intermediate Algebra Lecture 7.6: Using Proportions and Rational Methods
+in Problem Solving
 
 General Timestamp: 0:00
