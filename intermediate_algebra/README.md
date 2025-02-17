@@ -13,7 +13,7 @@ the official youtube link.
 
 **LEFTOFF:**
 
-Video: Intermediate Algebra Lecture 7.6: Using Proportions and Rational Methods
-in Problem Solving
+Video: Intermediate Algebra Lecture 7.7: Introducing and Simplifying Complex
+Fractions
 
 General Timestamp: 0:00
