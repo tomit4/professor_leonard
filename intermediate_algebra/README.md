@@ -13,7 +13,7 @@ the official youtube link.
 
 **LEFTOFF:**
 
-Video: Intermediate Algebra Lecture 7.4: Adding and Subtracting Rational
-Expressions
+Video: Intermediate Algebra Lecture 7.5: Solving Rational Equations (Equations
+with Rational Expressions)
 
 General Timestamp: 0:00
