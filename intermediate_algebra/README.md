@@ -13,7 +13,7 @@ the official youtube link.
 
 **LEFTOFF:**
 
-Video: Intermediate Algebra Lecture 7.7: Introducing and Simplifying Complex
-Fractions
+Video: Intermediate Algebra Lecture 8.1: Graphing Lines. Equations of Parallel
+and Perpendicular Lines
 
 General Timestamp: 0:00
