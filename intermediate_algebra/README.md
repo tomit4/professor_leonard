@@ -13,7 +13,6 @@ the official youtube link.
 
 **LEFTOFF:**
 
-Video: Intermediate Algebra Lecture 9.1: Compound Inequalities (Inequalities
-with "And" and "Or")
+Video: Intermediate Algebra Lecture 9.2: Solving Absolute Value Equations
 
 General Timestamp: 0:00
