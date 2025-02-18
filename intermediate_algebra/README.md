@@ -13,6 +13,7 @@ the official youtube link.
 
 **LEFTOFF:**
 
-Video: Intermediate Algebra Lecture 9.3: Solving Absolute Value Inequalities
+Video: Intermediate Algebra Lecture 9.4: How to Graph Systems of Linear
+Inequalities
 
 General Timestamp: 0:00
