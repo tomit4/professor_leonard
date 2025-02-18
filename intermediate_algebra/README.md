@@ -13,7 +13,7 @@ the official youtube link.
 
 **LEFTOFF:**
 
-Video: Intermediate Algebra Lecture 9.4: How to Graph Systems of Linear
-Inequalities
+Video: Intermediate Algebra Lecture 10.1: An Introduction to Radicals (Roots)
+and Radical Functions
 
 General Timestamp: 0:00
