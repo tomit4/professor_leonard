@@ -13,6 +13,7 @@ the official youtube link.
 
 **LEFTOFF:**
 
-Video: Intermediate Algebra Lecture 8.2: An Introduction to Non-Linear Functions
+Video: Intermediate Algebra Lecture 8.3: Study of Piecewise Functions and Basic
+Translations of Graphs
 
 General Timestamp: 0:00
