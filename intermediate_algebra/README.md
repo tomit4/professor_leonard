@@ -13,7 +13,6 @@ the official youtube link.
 
 **LEFTOFF:**
 
-Video: Intermediate Algebra Lecture 8.1: Graphing Lines. Equations of Parallel
-and Perpendicular Lines
+Video: Intermediate Algebra Lecture 8.2: An Introduction to Non-Linear Functions
 
 General Timestamp: 0:00
