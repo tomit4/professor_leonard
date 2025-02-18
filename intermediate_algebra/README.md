@@ -13,7 +13,7 @@ the official youtube link.
 
 **LEFTOFF:**
 
-Video: Intermediate Algebra Lecture 8.4: An Introduction to Direct and Inverse
-Variation
+Video: Intermediate Algebra Lecture 9.1: Compound Inequalities (Inequalities
+with "And" and "Or")
 
 General Timestamp: 0:00
