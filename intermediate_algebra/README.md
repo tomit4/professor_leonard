@@ -13,7 +13,7 @@ the official youtube link.
 
 **LEFTOFF:**
 
-Video: Intermediate Algebra Lecture 8.3: Study of Piecewise Functions and Basic
-Translations of Graphs
+Video: Intermediate Algebra Lecture 8.4: An Introduction to Direct and Inverse
+Variation
 
 General Timestamp: 0:00
