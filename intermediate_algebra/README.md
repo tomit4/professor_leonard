@@ -13,6 +13,6 @@ the official youtube link.
 
 **LEFTOFF:**
 
-Video: Intermediate Algebra Lecture 9.2: Solving Absolute Value Equations
+Video: Intermediate Algebra Lecture 9.3: Solving Absolute Value Inequalities
 
 General Timestamp: 0:00
