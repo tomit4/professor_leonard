@@ -13,7 +13,7 @@ the official youtube link.
 
 **LEFTOFF:**
 
-Video: Intermediate Algebra Lecture 10.1: An Introduction to Radicals (Roots)
-and Radical Functions
+Video: Intermediate Algebra Lecture 10.2: Rational Exponents; From Radicals
+(Roots) to Rational Exponents
 
 General Timestamp: 0:00
