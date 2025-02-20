@@ -13,7 +13,7 @@ the official youtube link.
 
 **LEFTOFF:**
 
-Video: Intermediate Algebra Lecture 10.4: Adding, Subtracting, and Multiplying
-Radicals (Roots)
+Video: Intermediate Algebra Lecture 10.5: Rationalization of Radical Expressions
+(Roots)
 
 Expressions General Timestamp: 0:00
