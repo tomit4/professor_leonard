@@ -13,7 +13,6 @@ the official youtube link.
 
 **LEFTOFF:**
 
-Video: Intermediate Algebra Lecture 10.2: Rational Exponents; From Radicals
-(Roots) to Rational Exponents
+Video: Intermediate Algebra Lecture 10.3: Simplifying Radical (Roots)
 
-General Timestamp: 0:00
+Expressions General Timestamp: 0:00
