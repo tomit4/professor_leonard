@@ -13,7 +13,7 @@ the official youtube link.
 
 **LEFTOFF:**
 
-Video: Intermediate Algebra Lecture 10.7: An Introduction to Operations with
-Complex Numbers
+Video: Intermediate Algebra Lecture 11.1: Solving Quadratic Equations By
+Completing the Square
 
 Expressions General Timestamp: 0:00
