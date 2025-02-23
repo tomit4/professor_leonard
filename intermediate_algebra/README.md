@@ -13,7 +13,7 @@ the official youtube link.
 
 **LEFTOFF:**
 
-Video: Intermediate Algebra Lecture 10.5: Rationalization of Radical Expressions
-(Roots)
+Video: Intermediate Algebra Lecture 10.6: Solving Radical (Roots) Equations and
+Pythagorean Theorem
 
 Expressions General Timestamp: 0:00
