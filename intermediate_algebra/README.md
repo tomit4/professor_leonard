@@ -13,7 +13,7 @@ the official youtube link.
 
 **LEFTOFF:**
 
-Video: Intermediate Algebra Lecture 10.6: Solving Radical (Roots) Equations and
-Pythagorean Theorem
+Video: Intermediate Algebra Lecture 10.7: An Introduction to Operations with
+Complex Numbers
 
 Expressions General Timestamp: 0:00
