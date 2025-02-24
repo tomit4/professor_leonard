@@ -13,7 +13,7 @@ the official youtube link.
 
 **LEFTOFF:**
 
-Video: Intermediate Algebra Lecture 11.3: Solving Equations Using Various
-Quadratic Methods
+Video: Intermediate Algebra Lecture 11.4: Solving Non-Linear and Quadratic
+Inequalities.
 
 Expressions General Timestamp: 0:00
