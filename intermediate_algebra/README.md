@@ -13,7 +13,7 @@ the official youtube link.
 
 **LEFTOFF:**
 
-Video: Intermediate Algebra Lecture 11.5: Sketching Graphs of Quadratic
-Functions
+Video: Intermediate Algebra Lecture 11.6: Graphing of Quadratics. Vertex, X -
+Intercept, Y - Intercept
 
 Expressions General Timestamp: 0:00
