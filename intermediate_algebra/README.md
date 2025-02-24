@@ -13,7 +13,7 @@ the official youtube link.
 
 **LEFTOFF:**
 
-Video: Intermediate Algebra Lecture 11.2: Solving Quadratic Equations with the
-Quadratic Formula
+Video: Intermediate Algebra Lecture 11.3: Solving Equations Using Various
+Quadratic Methods
 
 Expressions General Timestamp: 0:00
