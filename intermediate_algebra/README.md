@@ -13,7 +13,7 @@ the official youtube link.
 
 **LEFTOFF:**
 
-Video: Intermediate Algebra Lecture 11.4: Solving Non-Linear and Quadratic
-Inequalities.
+Video: Intermediate Algebra Lecture 11.5: Sketching Graphs of Quadratic
+Functions
 
 Expressions General Timestamp: 0:00
