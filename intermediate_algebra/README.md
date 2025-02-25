@@ -13,7 +13,7 @@ the official youtube link.
 
 **LEFTOFF:**
 
-Video: Intermediate Algebra Lecture 12.7: Solving Exponential and Logarithmic
-Equations.
+Video: Intermediate Algebra Lecture 13.1: A Study of Conic Sections -- Parabola
+and Circle.
 
 Expressions General Timestamp: 0:00
