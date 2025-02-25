@@ -13,7 +13,7 @@ the official youtube link.
 
 **LEFTOFF:**
 
-Video: Intermediate Algebra Lecture 12.5: Exploring the Properties of
+Video: Intermediate Algebra Lecture 12.6: Studying Common and Natural
 Logarithms.
 
 Expressions General Timestamp: 0:00
