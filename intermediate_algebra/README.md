@@ -13,7 +13,7 @@ the official youtube link.
 
 **LEFTOFF:**
 
-Video: Intermediate Algebra Lecture 12.4: Introduction to Graphing and Solving
-Logarithmic Functions
+Video: Intermediate Algebra Lecture 12.5: Exploring the Properties of
+Logarithms.
 
 Expressions General Timestamp: 0:00
