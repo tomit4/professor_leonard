@@ -13,7 +13,6 @@ the official youtube link.
 
 **LEFTOFF:**
 
-Video: Intermediate Algebra Lecture 12.1: Operations and Composition of
-Functions.
+Video: Intermediate Algebra Lecture 12.2: An Introduction to Inverse Functions
 
 Expressions General Timestamp: 0:00
