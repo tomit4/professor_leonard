@@ -13,7 +13,7 @@ the official youtube link.
 
 **LEFTOFF:**
 
-Video: Intermediate Algebra Lecture 12.6: Studying Common and Natural
-Logarithms.
+Video: Intermediate Algebra Lecture 12.7: Solving Exponential and Logarithmic
+Equations.
 
 Expressions General Timestamp: 0:00
