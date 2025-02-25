@@ -13,7 +13,7 @@ the official youtube link.
 
 **LEFTOFF:**
 
-Video: Intermediate Algebra Lecture 12.3: Graphing and Solving Exponential
-Functions
+Video: Intermediate Algebra Lecture 12.4: Introduction to Graphing and Solving
+Logarithmic Functions
 
 Expressions General Timestamp: 0:00
