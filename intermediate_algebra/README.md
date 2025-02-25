@@ -13,6 +13,7 @@ the official youtube link.
 
 **LEFTOFF:**
 
-Video: Intermediate Algebra Lecture 12.2: An Introduction to Inverse Functions
+Video: Intermediate Algebra Lecture 12.3: Graphing and Solving Exponential
+Functions
 
 Expressions General Timestamp: 0:00
