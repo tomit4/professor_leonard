@@ -13,7 +13,7 @@ the official youtube link.
 
 **LEFTOFF:**
 
-Video: Intermediate Algebra Lecture 13.1: A Study of Conic Sections -- Parabola
-and Circle.
+Video: Intermediate Algebra Lecture 13.2: A Study of Conic Sections -- Ellipse
+and Hyperbola.
 
 Expressions General Timestamp: 0:00
