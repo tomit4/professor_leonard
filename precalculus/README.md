@@ -7,4 +7,4 @@ is
 
 **LEFTOFF:**
 
-[Using the Vertical Line Test (Precalculus - College Algebra 6)](https://www.youtube.com/watch?v=7j6kh8Z2H90)
+[Features of Graphs, Domain, Range (Precalculus - College Algebra 7)](https://www.youtube.com/watch?v=d3b-4Zz65ZE)
