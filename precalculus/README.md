@@ -7,4 +7,4 @@ is
 
 **LEFTOFF:**
 
-[Properties of Functions - Even vs Odd (Precalculus - College Algebra 8)](https://www.youtube.com/watch?v=6897XAx3O9Q)
+[Properties of Functions - Increasing vs Decreasing (Precalculus - College Algebra 9)](https://www.youtube.com/watch?v=cIRDvscVPr0)
