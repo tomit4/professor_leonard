@@ -7,4 +7,4 @@ is
 
 **LEFTOFF:**
 
-[Features of Graphs, Domain, Range (Precalculus - College Algebra 7)](https://www.youtube.com/watch?v=d3b-4Zz65ZE)
+[Properties of Functions - Even vs Odd (Precalculus - College Algebra 8)](https://www.youtube.com/watch?v=6897XAx3O9Q)
