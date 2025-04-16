@@ -7,4 +7,4 @@ is
 
 **LEFTOFF:**
 
-[Properties of Functions - Increasing vs Decreasing (Precalculus - College Algebra 9)](https://www.youtube.com/watch?v=cIRDvscVPr0)
+[Average Rate of Change of a Function (Precalculus - College Algebra 11)](https://www.youtube.com/watch?v=H5Y-ONkezDM)
