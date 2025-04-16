@@ -7,4 +7,4 @@ is
 
 **LEFTOFF:**
 
-[How to Graph with Transformations (Precalculus - College Algebra 15)](https://www.youtube.com/watch?v=HkrMJLSpJFI)
+[Introduction to Solving Quadratics (Precalculus - College Algebra 16)](https://www.youtube.com/watch?v=OIEkJaPgjKs)
