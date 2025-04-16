@@ -7,4 +7,4 @@ is
 
 **LEFTOFF:**
 
-[Average Rate of Change of a Function (Precalculus - College Algebra 11)](https://www.youtube.com/watch?v=H5Y-ONkezDM)
+[How to Graph Piecewise Functions (Precalculus - College Algebra 12)](https://www.youtube.com/watch?v=KHZKgl_9o7M)
