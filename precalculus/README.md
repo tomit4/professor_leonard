@@ -7,4 +7,4 @@ is
 
 **LEFTOFF:**
 
-[Completing the Square Made Easy (Precalculus - College Algebra 19)](https://www.youtube.com/watch?v=pYSYL_vy6YQ)
+[Proving the Quadratic Formula - Twice (Precalculus - College Algebra 20)](https://www.youtube.com/watch?v=2BUg_w1Cu9E)
