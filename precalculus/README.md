@@ -7,4 +7,4 @@ is
 
 **LEFTOFF:**
 
-[Proving the Quadratic Formula - Twice (Precalculus - College Algebra 20)](https://www.youtube.com/watch?v=2BUg_w1Cu9E)
+[Using the Quadratic Formula (Precalculus - College Algebra 21)](https://www.youtube.com/watch?v=KIWXZVsdpbE)
