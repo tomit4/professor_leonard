@@ -7,4 +7,4 @@ is
 
 **LEFTOFF:**
 
-[Using Factoring to Solve Quadratics (Precalculus - College Algebra 18)](https://www.youtube.com/watch?v=u2CFHYJWS60)
+[Completing the Square Made Easy (Precalculus - College Algebra 19)](https://www.youtube.com/watch?v=pYSYL_vy6YQ)
