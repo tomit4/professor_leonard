@@ -7,4 +7,4 @@ is
 
 **LEFTOFF:**
 
-[Introduction to Solving Quadratics (Precalculus - College Algebra 16)](https://www.youtube.com/watch?v=OIEkJaPgjKs)
+[The Square Root Method in Solving Quadratics (Precalculus - College Algebra 17)](https://www.youtube.com/watch?v=mXAd6rkNSK0)
