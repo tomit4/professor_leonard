@@ -7,4 +7,4 @@ is
 
 **LEFTOFF:**
 
-[Finding Intersections of Functions (Precaluclus - College Algebra 22)](https://www.youtube.com/watch?v=2cXEuUazjCc)
+[Using Substitutions to Solve Equations (Precalculus - College Algebra 23)](https://www.youtube.com/watch?v=P8uoP-JFj54)
