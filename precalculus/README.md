@@ -7,4 +7,4 @@ is
 
 **LEFTOFF:**
 
-[Using the Quadratic Formula (Precalculus - College Algebra 21)](https://www.youtube.com/watch?v=KIWXZVsdpbE)
+[Finding Intersections of Functions (Precaluclus - College Algebra 22)](https://www.youtube.com/watch?v=2cXEuUazjCc)
