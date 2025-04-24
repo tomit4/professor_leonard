@@ -7,4 +7,4 @@ is
 
 **LEFTOFF:**
 
-[Solving Quadratic Inequalities (Precalculus - College Algebra 25)](https://www.youtube.com/watch?v=qd41nGPHbMU)
+[Applications of Quadratic Functions (Precalculus - College Algebra 26)](https://www.youtube.com/watch?v=Ow_u0qLAOJI)
