@@ -7,4 +7,4 @@ is
 
 **LEFTOFF:**
 
-[Using Substitutions to Solve Equations (Precalculus - College Algebra 23)](https://www.youtube.com/watch?v=P8uoP-JFj54)
+[Graphing Quadratic Functions (Precalculus - College Algebra 24)](https://www.youtube.com/watch?v=VH4tzzBVbgA)
