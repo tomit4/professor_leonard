@@ -7,4 +7,4 @@ is
 
 **LEFTOFF:**
 
-[Multiplicity and End Behavior of Polynomials (Precalculus - College Algebra 29)](https://www.youtube.com/watch?v=Gxh-mEt1K-o)
+[Creating Polynomials from Real Zeros (Precalculus - College Algebra 30)](https://www.youtube.com/watch?v=v-pnhWbHmQ8)
