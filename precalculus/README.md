@@ -7,4 +7,4 @@ is
 
 **LEFTOFF:**
 
-[Synthetic Division and Long Division of Polynomials (Precalculus - College Algebra 32)](https://www.youtube.com/watch?v=AKJgo-WR_K4)
+[Descartes Rule of Signs (Precalculus - College Algebra 33)](https://www.youtube.com/watch?v=-AW6Y1bL4KU)
