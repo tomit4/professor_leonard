@@ -7,4 +7,4 @@ is
 
 **LEFTOFF:**
 
-[Creating Polynomials from Real Zeros (Precalculus - College Algebra 30)](https://www.youtube.com/watch?v=v-pnhWbHmQ8)
+[How to Sketch Polynomial Functions (Precalculus - College Algebra 31)](https://www.youtube.com/watch?v=6MAtqY6Fqjs)
