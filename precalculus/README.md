@@ -7,4 +7,4 @@ is
 
 **LEFTOFF:**
 
-[Introduction to Polynomial Functions (Precalculus - College Algebra 27)](https://www.youtube.com/watch?v=6Uh3Z6DJ_pI)
+[Power Functions (Precalculus - College Algebra 28)](https://www.youtube.com/watch?v=FXTlAPOBA_U)
