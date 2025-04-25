@@ -7,4 +7,4 @@ is
 
 **LEFTOFF:**
 
-[Power Functions (Precalculus - College Algebra 28)](https://www.youtube.com/watch?v=FXTlAPOBA_U)
+[Multiplicity and End Behavior of Polynomials (Precalculus - College Algebra 29)](https://www.youtube.com/watch?v=Gxh-mEt1K-o)
