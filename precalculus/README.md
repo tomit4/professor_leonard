@@ -7,4 +7,4 @@ is
 
 **LEFTOFF:**
 
-[How to Sketch Polynomial Functions (Precalculus - College Algebra 31)](https://www.youtube.com/watch?v=6MAtqY6Fqjs)
+[Synthetic Division and Long Division of Polynomials (Precalculus - College Algebra 32)](https://www.youtube.com/watch?v=AKJgo-WR_K4)
