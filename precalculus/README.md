@@ -7,4 +7,4 @@ is
 
 **LEFTOFF:**
 
-[How to Use the Rational Zeros Theorem (Precalculus - College Algebra 34)](https://www.youtube.com/watch?v=g7wEpxwgB3w)
+[Introduction to Complex Solutions of Polynomials (Precalculus - College algebra 35)](https://www.youtube.com/watch?v=g-69B5jkcO4)
