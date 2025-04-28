@@ -7,4 +7,4 @@ is
 
 **LEFTOFF:**
 
-[Descartes Rule of Signs (Precalculus - College Algebra 33)](https://www.youtube.com/watch?v=-AW6Y1bL4KU)
+[How to Use the Rational Zeros Theorem (Precalculus - College Algebra 34)](https://www.youtube.com/watch?v=g7wEpxwgB3w)
