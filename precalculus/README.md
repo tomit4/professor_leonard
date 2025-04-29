@@ -7,4 +7,4 @@ is
 
 **LEFTOFF:**
 
-[Finding ALL Solutions of Polynomials (Precalculus - College Algebra 37)](https://www.youtube.com/watch?v=xuhk2kSVwe0)
+[Finding Vertical Asymptotes of Rational Functions (Precalculus - College Algebra 38)](https://www.youtube.com/watch?v=y-bSJaEonho)
