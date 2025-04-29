@@ -7,4 +7,4 @@ is
 
 **LEFTOFF:**
 
-[Introduction to Complex Solutions of Polynomials (Precalculus - College algebra 35)](https://www.youtube.com/watch?v=g-69B5jkcO4)
+[Creating Polynomials from Complex Solutions (Precalculus - College Algebra 36)](https://www.youtube.com/watch?v=lIFeZLHVWmc)
