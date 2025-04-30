@@ -7,4 +7,4 @@ is
 
 **LEFTOFF:**
 
-[Finding Vertical Asymptotes of Rational Functions (Precalculus - College Algebra 38)](https://www.youtube.com/watch?v=y-bSJaEonho)
+[Graphing Rational Functions with Transformations (Precalculus - College Algebra 39)](https://www.youtube.com/watch?v=-k4uXF4hsAs)
