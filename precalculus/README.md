@@ -7,4 +7,4 @@ is
 
 **LEFTOFF:**
 
-[Graphing Rational Functions with Transformations (Precalculus - College Algebra 39)](https://www.youtube.com/watch?v=-k4uXF4hsAs)
+[Finding a Horizontal Asymptote of a Rational Function (Precalculus - College Algebra 40)](https://www.youtube.com/watch?v=D-H9N-_Y77Y)
