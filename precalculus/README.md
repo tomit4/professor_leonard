@@ -7,4 +7,4 @@ is
 
 **LEFTOFF:**
 
-[Finding a Horizontal Asymptote of a Rational Function (Precalculus - College Algebra 40)](https://www.youtube.com/watch?v=D-H9N-_Y77Y)
+[Finding an Oblique Asymptote of a Rational Function (Precalculus - College Algebra 41)](https://www.youtube.com/watch?v=NVhaVk4wNu8)
