@@ -7,4 +7,4 @@ is
 
 **LEFTOFF:**
 
-[Finding an Oblique Asymptote of a Rational Function (Precalculus - College Algebra 41)](https://www.youtube.com/watch?v=NVhaVk4wNu8)
+[Finding End Behavior of Rational Functions (Precalculus - College Algebra 42)](https://www.youtube.com/watch?v=_cnmQXAo5XM)
