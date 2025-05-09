@@ -7,4 +7,4 @@ is
 
 **LEFTOFF:**
 
-[Finding End Behavior of Rational Functions (Precalculus - College Algebra 42)](https://www.youtube.com/watch?v=_cnmQXAo5XM)
+[Finding Asymptotes and Holes of Rational Functions (Precalculus - College Algebra 43)](https://www.youtube.com/watch?v=tyXWPcvSQvk)
