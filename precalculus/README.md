@@ -7,4 +7,4 @@ is
 
 **LEFTOFF:**
 
-[Graphing Rational Functions (Precalculus - College Algebra 44)](https://www.youtube.com/watch?v=wHATRiYbPPA)
+[Inequalities with Functions - Graphically (Precalculus - College Algebra 45)](https://www.youtube.com/watch?v=bngBtS7RBZ4)
