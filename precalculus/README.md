@@ -7,4 +7,4 @@ is
 
 **LEFTOFF:**
 
-[Finding Asymptotes and Holes of Rational Functions (Precalculus - College Algebra 43)](https://www.youtube.com/watch?v=tyXWPcvSQvk)
+[Graphing Rational Functions (Precalculus - College Algebra 44)](https://www.youtube.com/watch?v=wHATRiYbPPA)
