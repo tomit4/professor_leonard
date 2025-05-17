@@ -7,4 +7,4 @@ is
 
 **LEFTOFF:**
 
-[Inequalities with Rational Functions (Precalculus - College Algebra 47)](https://www.youtube.com/watch?v=QSh1xcbYKZk)
+[Composition of Functions (Precalculus - College Algebra 48)](https://www.youtube.com/watch?v=EsgHKmLSPVc)
