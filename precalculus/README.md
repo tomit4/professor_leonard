@@ -7,4 +7,4 @@ is
 
 **LEFTOFF:**
 
-[Inequalities with Polynomial Functions (Precalculus - College Algebra 46)](https://www.youtube.com/watch?v=qFJ-Mq0XcTI)
+[Inequalities with Rational Functions (Precalculus - College Algebra 47)](https://www.youtube.com/watch?v=QSh1xcbYKZk)
