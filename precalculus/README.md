@@ -7,4 +7,4 @@ is
 
 **LEFTOFF:**
 
-[Inequalities with Functions - Graphically (Precalculus - College Algebra 45)](https://www.youtube.com/watch?v=bngBtS7RBZ4)
+[Inequalities with Polynomial Functions (Precalculus - College Algebra 46)](https://www.youtube.com/watch?v=qFJ-Mq0XcTI)
