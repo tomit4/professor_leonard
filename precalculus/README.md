@@ -7,4 +7,4 @@ is
 
 **LEFTOFF:**
 
-[One to One Functions (Precalculus - College Algebra 50)](https://www.youtube.com/watch?v=C0Q_m2UDerc)
+[Finding Inverse Functions (Precalculus - College Algebra 51)](https://www.youtube.com/watch?v=fK7IPeeZoFE)
