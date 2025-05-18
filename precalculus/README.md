@@ -7,4 +7,4 @@ is
 
 **LEFTOFF:**
 
-[Finding Domain of Composite Functions (Precalculus - College Algebra 49)](https://www.youtube.com/watch?v=G8r9oL-ke9s)
+[One to One Functions (Precalculus - College Algebra 50)](https://www.youtube.com/watch?v=C0Q_m2UDerc)
