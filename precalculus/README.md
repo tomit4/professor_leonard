@@ -7,4 +7,4 @@ is
 
 **LEFTOFF:**
 
-[Finding Inverse Functions (Precalculus - College Algebra 51)](https://www.youtube.com/watch?v=fK7IPeeZoFE)
+[Graphs of Exponential Functions (Precalculus - College Algebra 52)](https://www.youtube.com/watch?v=2w14jBb0e9Q)
