@@ -7,4 +7,4 @@ is
 
 **LEFTOFF:**
 
-[Graphs of Exponential Functions (Precalculus - College Algebra 52)](https://www.youtube.com/watch?v=2w14jBb0e9Q)
+[Solving Exponential Equations with Common Bases (Precalculus - College Algebra 54)](https://www.youtube.com/watch?v=gkUWLFontZU)
