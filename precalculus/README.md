@@ -7,4 +7,4 @@ is
 
 **LEFTOFF:**
 
-[Introduction to Logarithms and Their Graphs (Precalculus - College Algebra 55)](https://www.youtube.com/watch?v=jfnTwz79PWU)
+[Graphing Logarithms with Transformations (Precalculus - College Algebra 56)](https://www.youtube.com/watch?v=swC7KrDO0Uo)
