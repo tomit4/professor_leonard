@@ -7,4 +7,4 @@ is
 
 **LEFTOFF:**
 
-[Properties of Logarithms (Precalculus - College Algebra 58)](https://www.youtube.com/watch?v=u0uScdsBPfk)
+[How to Expand Logarithms (Precalculus - College Algebra 59)](https://www.youtube.com/watch?v=qCeN653SdX4)
