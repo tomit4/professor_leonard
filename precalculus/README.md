@@ -7,4 +7,4 @@ is
 
 **LEFTOFF:**
 
-[Introduction to Solving Logarithms and Exponentials (Precalculus - College Algebra 57)](https://www.youtube.com/watch?v=KezbqAAlOZk)
+[Properties of Logarithms (Precalculus - College Algebra 58)](https://www.youtube.com/watch?v=u0uScdsBPfk)
