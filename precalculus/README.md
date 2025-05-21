@@ -7,4 +7,4 @@ is
 
 **LEFTOFF:**
 
-[How to Combine Logarithms (Precalculus - College Algebra 60)](https://www.youtube.com/watch?v=YrU8fYchnIU)
+[How to Change the Base of a Logarithm (Precalculus - College Algebra 61)](https://www.youtube.com/watch?v=tgcFt8zGnNE)
