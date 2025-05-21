@@ -7,4 +7,4 @@ is
 
 **LEFTOFF:**
 
-[How to Change the Base of a Logarithm (Precalculus - College Algebra 61)](https://www.youtube.com/watch?v=tgcFt8zGnNE)
+[Solving Logarithmic Equations with Exponentials (Precalculus - College Algebra 63)](https://www.youtube.com/watch?v=jNUyVClUQfc)
