@@ -133,44 +133,4 @@ And Our _Vertical Asymptote_ also shifts to the right by $1$ to $x = 1$.
 
 And our final graph looks something like this:
 
-![image 054_3](./054_3.png)
-
----
-
-$$ g(x) = 3 - 2\log_{3}{(x + 1)} $$
-
-Let's first get this into proper order:
-
-$$ g(x) = -2\log_{3}{(x + 1)} + 3 $$
-
-And again, our classic key points are $(1, 0)$ and $(a, 1)$, where $a$ is the
-_base_:
-
-$$
-\begin{align*}
-\text{Key Points: } \\
-(1, 0) \\
-(3, 1) \\
-\end{align*}
-$$
-
-And Our _Vertical Asymptote_ occurs at $x = 0$.
-
-Let's now apply the transformations. Inside the function we have $(x + 1)$, this
-means that we shift to the left by $-1$. Outside of the function we have $+ 3$.
-This means that we shift upwards by $3$.
-
-Our _Vertical Asymptote_ now also changes to $x = -1$.
-
-Our key points are changed on the _outputs_ only by the reflection and vertical
-stretch of the $-2$:
-
-$$
-\begin{align*}
-\text{Key Points: } \\
-(1, 0) \\
-(3, -2) \\
-\end{align*}
-$$
-
-![image 054_4](./054_4.png)
+![image 054_3](./054_2.png)

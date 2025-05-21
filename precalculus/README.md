@@ -7,4 +7,4 @@ is
 
 **LEFTOFF:**
 
-[Graphing Logarithms with Transformations (Precalculus - College Algebra 56)](https://www.youtube.com/watch?v=swC7KrDO0Uo)
+[Introduction to Solving Logarithms and Exponentials (Precalculus - College Algebra 57)](https://www.youtube.com/watch?v=KezbqAAlOZk)
