@@ -7,4 +7,4 @@ is
 
 **LEFTOFF:**
 
-[How to Expand Logarithms (Precalculus - College Algebra 59)](https://www.youtube.com/watch?v=qCeN653SdX4)
+[How to Combine Logarithms (Precalculus - College Algebra 60)](https://www.youtube.com/watch?v=YrU8fYchnIU)
