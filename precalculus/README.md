@@ -7,4 +7,4 @@ is
 
 **LEFTOFF:**
 
-[Solving Logarithmic Equations with Exponentials (Precalculus - College Algebra 63)](https://www.youtube.com/watch?v=jNUyVClUQfc)
+[Solving Exponential Equations with Logarithms (Precalculus - College Algebra 64)](https://www.youtube.com/watch?v=rDcLCA2W-UI)
