@@ -7,4 +7,4 @@ is
 
 **LEFTOFF:**
 
-[Solving Logarithms with Common Bases (Precalculus - College Algebra 62)](https://www.youtube.com/watch?v=82fonULPl64)
+[Solving Logarithmic Equations with Exponentials (Precalculus - College Algebra 63)](https://www.youtube.com/watch?v=jNUyVClUQfc)
