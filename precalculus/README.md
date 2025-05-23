@@ -7,4 +7,4 @@ is
 
 **LEFTOFF:**
 
-[Solving Exponential Equations with Logarithms (Precalculus - College Algebra 64)](https://www.youtube.com/watch?v=rDcLCA2W-UI)
+[Review of Compound Interest (Precalculus - College Algebra 65)](https://www.youtube.com/watch?v=N1k25doMFww)
