@@ -7,4 +7,4 @@ is
 
 **LEFTOFF:**
 
-[Arithmetic Sequences (Precalculus - College Algebra 69)](https://www.youtube.com/watch?v=bxGmjouB6t4)
+[Arithmetic Series (Precalculus - College Algebra 70)](https://www.youtube.com/watch?v=XdXQjHsl4q0)
