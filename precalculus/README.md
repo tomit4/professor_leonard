@@ -7,4 +7,4 @@ is
 
 **LEFTOFF:**
 
-[Review of Compound Interest (Precalculus - College Algebra 65)](https://www.youtube.com/watch?v=N1k25doMFww)
+[Exponential Growth and Decay (Precalculus - College Algebra 66)](https://www.youtube.com/watch?v=rO-C48LY2KY)
