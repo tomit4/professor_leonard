@@ -7,4 +7,4 @@ is
 
 **LEFTOFF:**
 
-[Exponential Growth and Decay (Precalculus - College Algebra 66)](https://www.youtube.com/watch?v=rO-C48LY2KY)
+[Introduction to Sequences (Precalculus - College Algebra 67)](https://www.youtube.com/watch?v=c5D7BJ-R41I)
