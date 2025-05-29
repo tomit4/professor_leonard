@@ -7,4 +7,4 @@ is
 
 **LEFTOFF:**
 
-[Introduction to Sequences (Precalculus - College Algebra 67)](https://www.youtube.com/watch?v=c5D7BJ-R41I)
+[Introduction to Series and Summation Notation (Precalculus - College Algebra 68)](https://www.youtube.com/watch?v=Ipz9xXeoaRc)
