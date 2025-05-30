@@ -7,4 +7,4 @@ is
 
 **LEFTOFF:**
 
-[Geometric Series (Precalculus - College Algebra 72)](https://www.youtube.com/watch?v=_yDqkrbd5mk)
+[Proof by Mathematical Induction (Precalculus - College Algebra 73)](https://www.youtube.com/watch?v=x5cWX-EyLEI)
