@@ -7,4 +7,4 @@ is
 
 **LEFTOFF:**
 
-[Geometric Sequences (Precalculus - College Algebra 71)](https://www.youtube.com/watch?v=qyHCnYewdrQ)
+[Geometric Series (Precalculus - College Algebra 72)](https://www.youtube.com/watch?v=_yDqkrbd5mk)
