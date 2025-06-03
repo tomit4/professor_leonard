@@ -7,4 +7,4 @@ is
 
 **LEFTOFF:**
 
-[Converting Degrees, Minutes, and Seconds (Precalculus - Trigonometry 2)](https://www.youtube.com/watch?v=U40Afn37QC4)
+[Introduction to Radians (Precalculus - Trigonometry 3)](https://www.youtube.com/watch?v=EWd_FtOfyPc)
