@@ -7,4 +7,4 @@ is
 
 **LEFTOFF:**
 
-[Introduction to Angles (Precalculus - Trigonometry 1)](https://www.youtube.com/watch?v=c41QejoWnb4)
+[Converting Degrees, Minutes, and Seconds (Precalculus - Trigonometry 2)](https://www.youtube.com/watch?v=U40Afn37QC4)
