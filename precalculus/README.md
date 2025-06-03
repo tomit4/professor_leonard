@@ -7,4 +7,4 @@ is
 
 **LEFTOFF:**
 
-[Converting Radians and Degrees (Precalculus - Trigonometry 4)](https://www.youtube.com/watch?v=sCwcbZSZL5o)
+[Area of a Sector, Angular Velocity, Applications (Precalculus - Trigonometry 5)](https://www.youtube.com/watch?v=x6wnYbOBCic)
