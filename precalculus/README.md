@@ -7,4 +7,4 @@ is
 
 **LEFTOFF:**
 
-[Area of a Sector, Angular Velocity, Applications (Precalculus - Trigonometry 5)](https://www.youtube.com/watch?v=x6wnYbOBCic)
+[Trigonometric Functions and the Unit Circle (Precalculus - Trigonometry 6)](https://www.youtube.com/watch?v=__nefjOhVks)
