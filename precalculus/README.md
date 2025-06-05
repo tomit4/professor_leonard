@@ -7,4 +7,4 @@ is
 
 **LEFTOFF:**
 
-[Trigonometric Functions and the Unit Circle (Precalculus - Trigonometry 6)](https://www.youtube.com/watch?v=__nefjOhVks)
+[How to Use the Unit Circle in Trigonometry (Precalculus - Trigonometry 7)](https://www.youtube.com/watch?v=GdRZfemxTFI)
