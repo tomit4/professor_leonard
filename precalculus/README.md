@@ -7,4 +7,4 @@ is
 
 **LEFTOFF:**
 
-[Basic Properties of Trigonometric Functions (Precalculus - Trigonometry 8)](https://www.youtube.com/watch?v=_dTRpq_yGIc)
+[Reciprocal Identities in Trigonometry (Precalculus - Trigonometry 9)](https://www.youtube.com/watch?v=98jDUsZ2JYA)
