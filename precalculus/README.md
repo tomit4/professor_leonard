@@ -7,4 +7,4 @@ is
 
 **LEFTOFF:**
 
-[Reciprocal Identities in Trigonometry (Precalculus - Trigonometry 9)](https://www.youtube.com/watch?v=98jDUsZ2JYA)
+[Pythagorean Identities for Trigonometric Functions (Precalculus - Trigonometry 10)](https://www.youtube.com/watch?v=huP3v7iZuLM)
