@@ -7,4 +7,4 @@ is
 
 **LEFTOFF:**
 
-[Pythagorean Identities for Trigonometric Functions (Precalculus - Trigonometry 10)](https://www.youtube.com/watch?v=huP3v7iZuLM)
+[The Graphs of Sine and Cosine (Precalculus - Trigonometry 11)](https://www.youtube.com/watch?v=3HHgZopzL_s)
