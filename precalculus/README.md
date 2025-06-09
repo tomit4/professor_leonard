@@ -7,4 +7,4 @@ is
 
 **LEFTOFF:**
 
-[Graphing Transformations with Sine and Cosine (Precalculus - Trigonometry 12)](https://www.youtube.com/watch?v=dyXT5KMCrPk)
+[How to Graph Tangent and Cotangent (Precalculus - Trigonometry 13)](https://www.youtube.com/watch?v=8eMEBrPYJ0I)
