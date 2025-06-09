@@ -7,4 +7,4 @@ is
 
 **LEFTOFF:**
 
-[How to Graph Tangent and Cotangent (Precalculus - Trigonometry 13)](https://www.youtube.com/watch?v=8eMEBrPYJ0I)
+[Graphing Transformations with Tangent and Cotangent (Precalculus - Trigonometry 14)](https://www.youtube.com/watch?v=i4rr_J1VbkY)
