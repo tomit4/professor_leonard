@@ -7,4 +7,4 @@ is
 
 **LEFTOFF:**
 
-[How to Graph Phase Shifts of Trigonometric Functions (Precalculus - Trigonometry 16)](https://www.youtube.com/watch?v=bE5PFI-ibT8)
+[Introduction to Inverse Trigonometric Functions (Precalculus - Trigonometry 17)](https://www.youtube.com/watch?v=ih01YszlraY)
