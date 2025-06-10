@@ -7,4 +7,4 @@ is
 
 **LEFTOFF:**
 
-[How to Graph Cosecant and Secant (Precalculus - Trigonometry 15)](https://www.youtube.com/watch?v=kYIKNTXaf_E)
+[How to Graph Phase Shifts of Trigonometric Functions (Precalculus - Trigonometry 16)](https://www.youtube.com/watch?v=bE5PFI-ibT8)
