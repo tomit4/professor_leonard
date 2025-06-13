@@ -7,4 +7,4 @@ is
 
 **LEFTOFF:**
 
-[An Indepth Look at Using Inverse Trig Functions (Precalculus - Trigonometry 21)](https://www.youtube.com/watch?v=1f6BhHlkgy4)
+[How to Solve Trigonometric Equations (Precalculus - Trigonometry 22)](https://www.youtube.com/watch?v=hBk7OnEYPcw)
