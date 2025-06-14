@@ -7,4 +7,4 @@ is
 
 **LEFTOFF:**
 
-[How to Prove Trigonometric Identities (Precalculus - Trigonometry 24)](https://www.youtube.com/watch?v=az_veh1FLbo)
+[Introduction to Sum and Difference Formulas in Trigonometry (Precalculus - Trigonometry 25)](https://www.youtube.com/watch?v=9R5Nz1eYddM)
