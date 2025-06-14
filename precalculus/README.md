@@ -7,4 +7,4 @@ is
 
 **LEFTOFF:**
 
-[How to Solve Trigonometric Equations (Precalculus - Trigonometry 22)](https://www.youtube.com/watch?v=hBk7OnEYPcw)
+[Introduction to Using Trigonometric Identities (Precalculus - Trigonometry 23)](https://www.youtube.com/watch?v=yIMR-3c1wP8)
