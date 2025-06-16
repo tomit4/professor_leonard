@@ -7,4 +7,4 @@ is
 
 **LEFTOFF:**
 
-[Using Sum and Difference Formulas in Trigonometry (Precalculus - Trigonometry 26)](https://www.youtube.com/watch?v=xw4HLT3TmIU)
+[Proving the Double and Half Angle Formulas for Trigonometry (Precalculus - Trigonometry 27)](https://www.youtube.com/watch?v=Epa2mi8hzBA)
