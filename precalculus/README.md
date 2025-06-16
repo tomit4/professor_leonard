@@ -7,4 +7,4 @@ is
 
 **LEFTOFF:**
 
-[Proving the Double and Half Angle Formulas for Trigonometry (Precalculus - Trigonometry 27)](https://www.youtube.com/watch?v=Epa2mi8hzBA)
+[How to Use the Double and Half Angle Formulas for Trigonometry (Precalculus - Trigonometry 28)](https://www.youtube.com/watch?v=Pf6p6lCs5I8)
