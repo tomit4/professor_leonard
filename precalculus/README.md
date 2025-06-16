@@ -7,4 +7,4 @@ is
 
 **LEFTOFF:**
 
-[Introduction to Sum and Difference Formulas in Trigonometry (Precalculus - Trigonometry 25)](https://www.youtube.com/watch?v=9R5Nz1eYddM)
+[Using Sum and Difference Formulas in Trigonometry (Precalculus - Trigonometry 26)](https://www.youtube.com/watch?v=xw4HLT3TmIU)
