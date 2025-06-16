@@ -7,4 +7,4 @@ is
 
 **LEFTOFF:**
 
-[How to Use the Double and Half Angle Formulas for Trigonometry (Precalculus - Trigonometry 28)](https://www.youtube.com/watch?v=Pf6p6lCs5I8)
+[How to Use Product to Sum and Sum to Product Formulas in Trig (Precalculus - Trigonometry 29)](https://www.youtube.com/watch?v=tHdcvWNNXZE)
