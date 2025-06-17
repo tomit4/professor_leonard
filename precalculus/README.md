@@ -7,4 +7,4 @@ is
 
 **LEFTOFF:**
 
-[How to Use Product to Sum and Sum to Product Formulas in Trig (Precalculus - Trigonometry 29)](https://www.youtube.com/watch?v=tHdcvWNNXZE)
+[Introduction to Right Triangle Trigonometry (Precalculus - Trigonometry 30)](https://www.youtube.com/watch?v=Sy_ZCtD2tWo)
