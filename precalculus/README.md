@@ -7,4 +7,4 @@ is
 
 **LEFTOFF:**
 
-[Introduction to Right Triangle Trigonometry (Precalculus - Trigonometry 30)](https://www.youtube.com/watch?v=Sy_ZCtD2tWo)
+[Finding Sides and Angles with Right Triangle Trigonometry (Precalculus - Trigonometry 31)](https://www.youtube.com/watch?v=OHiZDKUwlQ4)
