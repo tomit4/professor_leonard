@@ -7,4 +7,4 @@ is
 
 **LEFTOFF:**
 
-[Finding Sides and Angles with Right Triangle Trigonometry (Precalculus - Trigonometry 31)](https://www.youtube.com/watch?v=OHiZDKUwlQ4)
+[How to Use the Law of Sines in Trigonometry (Precalculus - Trigonometry 32)](https://www.youtube.com/watch?v=-izzbKILEM0)
