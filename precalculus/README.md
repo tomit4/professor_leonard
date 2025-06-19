@@ -7,4 +7,4 @@ is
 
 **LEFTOFF:**
 
-[How to Use the Law of Cosines in Trigonometry (Precalculus - Trigonometry 33)](https://www.youtube.com/watch?v=HOI_PnFG67Q)
+[How to Find the Area of a Triangle with Trigonometry (Precalculus - Trigonometry 34)](https://www.youtube.com/watch?v=_i9t-ldjG7o)
