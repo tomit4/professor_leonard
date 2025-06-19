@@ -7,4 +7,4 @@ is
 
 **LEFTOFF:**
 
-[How to Use the Law of Sines in Trigonometry (Precalculus - Trigonometry 32)](https://www.youtube.com/watch?v=-izzbKILEM0)
+[How to Use the Law of Cosines in Trigonometry (Precalculus - Trigonometry 33)](https://www.youtube.com/watch?v=HOI_PnFG67Q)
