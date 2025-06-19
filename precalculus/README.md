@@ -7,4 +7,4 @@ is
 
 **LEFTOFF:**
 
-[How to Find the Area of a Triangle with Trigonometry (Precalculus - Trigonometry 34)](https://www.youtube.com/watch?v=_i9t-ldjG7o)
+[Simple Harmonic Motion in Trig (Precalculus - Trigonometry 35)](https://www.youtube.com/watch?v=qTXlBIgny10)
