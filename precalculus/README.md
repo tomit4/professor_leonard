@@ -7,4 +7,4 @@ is
 
 **LEFTOFF:**
 
-[Simple Harmonic Motion in Trig (Precalculus - Trigonometry 35)](https://www.youtube.com/watch?v=qTXlBIgny10)
+[Introduction to Polar Coordinates (Precalculus - Trigonometry 36)](https://www.youtube.com/watch?v=Ol_a6LEdo3M)
