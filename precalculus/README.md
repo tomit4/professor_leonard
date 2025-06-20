@@ -7,4 +7,4 @@ is
 
 **LEFTOFF:**
 
-[How to Convert From Polar Coordinates to Rectangular Coordinates (Precalculus - Trigonometry 37)](https://www.youtube.com/watch?v=nyab0CZK2BE)
+[How to Convert From Rectangular Coordinates to Polar Coordinates (Precalculus - Trigonometry 38)](https://www.youtube.com/watch?v=klxI0yvJFrg)
