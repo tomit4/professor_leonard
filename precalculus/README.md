@@ -7,4 +7,4 @@ is
 
 **LEFTOFF:**
 
-[How to Convert From Rectangular Equations to Polar Equations (Precalculus - Trigonometry 39)](https://www.youtube.com/watch?v=blUobGPSMCk)
+[How to Convert From Polar Equations to Rectangular Equations (Precalculus - Trigonometry 40)](https://www.youtube.com/watch?v=QjU4_fO8V2I)
