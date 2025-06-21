@@ -7,4 +7,4 @@ is
 
 **LEFTOFF:**
 
-[How to Convert From Polar Equations to Rectangular Equations (Precalculus - Trigonometry 40)](https://www.youtube.com/watch?v=QjU4_fO8V2I)
+[How to Graph Basic Polar Equations (Precalculus - Trigonometry 41)](https://www.youtube.com/watch?v=d-KXFtkLZVA)
