@@ -7,4 +7,4 @@ is
 
 **LEFTOFF:**
 
-[How to Graph Basic Polar Equations (Precalculus - Trigonometry 41)](https://www.youtube.com/watch?v=d-KXFtkLZVA)
+[How to Graph Advanced Polar Equations with Symmetry (Precalculus - Trigonometry 42)](https://www.youtube.com/watch?v=I9BKbq2MVfg)
