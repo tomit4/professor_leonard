@@ -6,5 +6,4 @@ Total # Of Lectures: 32.
 is
 
 **LEFTOFF:**
-
-[Calculus 1 Lecture 0.1: Lines, Angle of Inclination, and the Distance Formula](https://www.youtube.com/watch?v=fYyARMqiaag)
+[Calculus 1 Lecture 0.2: Introduction to Functions.](https://www.youtube.com/watch?v=1EGFSefe5II)
